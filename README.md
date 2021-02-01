@@ -11,4 +11,4 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-jason-hwkim&show_icons=true&icon_color=009C4C&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-jason-hwkim&show_icons=true&icon_color=009C4C&text_color=718096&bg_color=ffffff00&hide_title=true&hide_border=true" />
