@@ -6,6 +6,7 @@
 
 - 📱  iOS Developer
 - 🍺  Heavy Drinker
+- 🤖  AI Lover
 - 💻  Learn  Flutter ...
 - 🧑🏼‍💻  SwiftUI, Combine, RxSwift, iOS Architecture ...
 
